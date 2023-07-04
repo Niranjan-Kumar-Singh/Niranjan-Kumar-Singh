@@ -1,7 +1,30 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-# 💫 About Me:
-🔭 I’m currently working on a restaurant website<br><br>🌱 I’m currently learning Frameworks and JavaScript<br><br>👨‍💻 All of my projects are available at https://niranjan-kumar-singh.github.io/Portfolio/<br><br>💬 Ask me about C, Python,MySql<br><br>📫 How to reach me niranjansingh1419@gmail.com<br><br>📄 Know about my experiences https://niranjan-kumar-singh.github.io/Portfolio/<br><br>⚡ Fun fact I think too much
+<h1 align="center">Hi 👋, I'm Niranjan Kumar Singh</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<br>
+
+- 🔭 I’m currently working on **a restaurant website**
+
+- 🌱 I’m currently learning **Frameworks and JavaScript**
+
+- 👨‍💻 All of my projects are available at [https://niranjan-kumar-singh.github.io/Portfolio/](https://niranjan-kumar-singh.github.io/Portfolio/)
+
+- 💬 Ask me about **C, Python,MySql**
+
+- 📫 How to reach me **niranjansingh1419@gmail.com**
+
+- 📄 Know about my experiences [https://niranjan-kumar-singh.github.io/Portfolio/](https://niranjan-kumar-singh.github.io/Portfolio/)
+
+- ⚡ Fun fact **I think too much 😫**
+
+<br>
+
+<p align="left"> <a href="https://twitter.com/_niranjan_singh" target="blank"><img src="https://img.shields.io/twitter/follow/_niranjan_singh?logo=twitter&style=for-the-badge" alt="_niranjan_singh" /></a> </p>
+
+## ✨ Trophies:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niranjan-kumar-singh" alt="niranjan-kumar-singh" /></a> </p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Niranjan#7765) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/niranjan.singh.1419) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niranjan._23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niranjan-kumar-singh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_niranjan_singh) 
