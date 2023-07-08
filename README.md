@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I think too much 😫**
 
+[![Niranjan-Kumar-Singh's GitHub | Languages Over Time](https://stats.quine.sh/Niranjan-Kumar-Singh/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Niranjan-Kumar-Singh)
+
 <br>
 
 <p align="left"> <a href="https://twitter.com/_niranjan_singh" target="blank"><img src="https://img.shields.io/twitter/follow/_niranjan_singh?logo=twitter&style=for-the-badge" alt="_niranjan_singh" /></a> </p>
