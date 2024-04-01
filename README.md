@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Niranjan Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-[![Niranjan-Kumar-Singh's GitHub | Stats](https://stats.quine.sh/Niranjan-Kumar-Singh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Niranjan-Kumar-Singh)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niranjan-kumar-singh" alt="niranjan-kumar-singh" /></a> </p>
+
+[![Niranjan-Kumar-Singh's GitHub | Stats](https://stats.quine.sh/Niranjan-Kumar-Singh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Niranjan-Kumar-Singh)
 
 <p align="left"> <a href="https://twitter.com/_niranjan_singh" target="blank"><img src="https://img.shields.io/twitter/follow/_niranjan_singh?logo=twitter&style=for-the-badge" alt="_niranjan_singh" /></a> </p>
 
