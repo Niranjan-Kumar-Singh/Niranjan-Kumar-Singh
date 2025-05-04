@@ -1,6 +1,6 @@
 <!-- Animated Greeting with Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Niranjan+Kumar+Singh;Frontend+Developer+💻;Backend+Developer+🛠️;Aspiring+SDE+🚀;Final+Year+Student+🎓" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Niranjan+Kumar+Singh;Frontend+Developer+💻;Backend+Developer+🛠️;Aspiring+SDE+🚀;Final+Year+Student+🎓" alt="Typing SVG" />
 </h1>
 
 ---
@@ -17,8 +17,7 @@
 ### <p align="center">👨‍💻 About Me</p>
 
 <p align="center">
-I'm a passionate final-year B.Tech student deeply immersed in full-stack web development. With a solid foundation in frontend and backend technologies, I enjoy building dynamic, responsive, and user-friendly applications.  
-Currently exploring the MERN stack, I strive for clean code, intuitive UI, and real-world impactful projects. I'm actively looking for internships and freelance opportunities to expand my knowledge and contribute to meaningful products.  
+  I'm a passionate and dedicated final-year Computer Science student based in West Bengal, India. With a strong foundation in both frontend and backend technologies, I specialize in the MERN stack. My journey in tech is driven by curiosity and a commitment to continuous learning. I'm currently seeking job opportunities where I can contribute, grow, and make a meaningful impact.
 </p>
 
 ---
@@ -52,13 +51,9 @@ Currently exploring the MERN stack, I strive for clean code, intuitive UI, and r
 ### <p align="center">📊 GitHub Stats</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niranjan-Kumar-Singh&theme=radical&show_icons=true&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niranjan-Kumar-Singh&theme=radical&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan-Kumar-Singh&layout=compact&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Niranjan-Kumar-Singh&theme=radical&show_icons=true&hide_border=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niranjan-Kumar-Singh&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan-Kumar-Singh&layout=compact&theme=radical&hide_border=false" alt="Top Languages"/>
 </p>
 
 ---
@@ -71,15 +66,10 @@ Currently exploring the MERN stack, I strive for clean code, intuitive UI, and r
 
 ---
 
-### <p align="center">💡 Deep Dev Quote</p>
+### <p align="center">💡 Quote of the Moment</p>
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em><br>
-  — <strong>Cory House</strong>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=socrates" alt="Random Quote"/>
 </p>
 
 ---
@@ -87,7 +77,7 @@ Currently exploring the MERN stack, I strive for clean code, intuitive UI, and r
 ### <p align="center">👁‍🗨 Visitor Count</p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Niranjan-Kumar-Singh&label=Profile+Views&color=12F7D6&icon=5&pretty=true&style=plastic" />
+  <img src="https://u8views.com/api/v1/github/profiles/119206972/views/day-week-month-total-count.svg" alt="Visitor Count"/>
 </p>
 
 ---
