@@ -1,6 +1,6 @@
 <!-- Animated Greeting with Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Niranjan+Kumar+Singh;Frontend+Developer+💻;Backend+Developer+🛠️;Aspiring+SDE+🚀;Final+Year+Student+🎓" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Niranjan+Kumar+Singh;Frontend+Developer+💻;Backend+Developer+🛠️;Aspiring+SDE+🚀;Final+Year+Student+🎓" alt="Typing SVG" />
 </h1>
 
 ---
@@ -69,7 +69,7 @@
 ### <p align="center">💡 Quote of the Moment</p>
 
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=socrates" alt="Random Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote"/>
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ### <p align="center">👁‍🗨 Visitor Count</p>
 
 <p align="center">
-  <img src="https://u8views.com/api/v1/github/profiles/119206972/views/day-week-month-total-count.svg" alt="Visitor Count"/>
+  <img src="https://shields.io/endpoint?url=https://count.niranjankumarsingh.workers.dev/visitor-badge" alt="Visitor Badge">
 </p>
 
 ---
