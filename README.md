@@ -5,6 +5,8 @@
 
 ---
 
+![Visitor Count](https://img.shields.io/github/traffic/Niranjan-Kumar-Singh/Portfolio-Frontend?style=flat-square)
+
 ### <p align="center">📍 West Bengal, India • 🕒 GMT+05:30 • 💼 he/him</p>
 
 <p align="center">
