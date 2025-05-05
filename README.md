@@ -43,7 +43,7 @@
 ### <p align="center">🛠️ Tech Stack</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,java,py,anaconda,git,github,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,java,py,anaconda,git,github,netlify" style="display: block; margin: 0 auto;" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ### <p align="center">👁‍🗨 Visitor Count</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/visitors-dynamic?label=Visitor%20Count&query=%24&url=https%3A%2F%2Fgentle-unit-96b5.niranjansingh1419.workers.dev%2F&color=0e75b6" alt="Visitor Count Badge" />
+  <img src="https://img.shields.io/endpoint?url=https://gentle-unit-96b5.niranjansingh1419.workers.dev" alt="Visitor Count" />
 </p>
 
 ---
